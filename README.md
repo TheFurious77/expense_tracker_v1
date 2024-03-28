@@ -9,3 +9,6 @@ Insightful Data Presentation: Gain valuable insights into your spending habits w
 User-Friendly Design: The app boasts an intuitive and user-friendly interface, making it easy for anyone to navigate and manage their finances effectively.
 
 ![Screenshot (1446)](https://github.com/TheFurious77/expense_tracker_v1/assets/133908099/d7559a40-118c-4f22-9267-55dcba21df33)
+
+the client side of the website is present in separate repo:
+the link to the repo id:https://github.com/TheFurious77/Expense_Tracker
